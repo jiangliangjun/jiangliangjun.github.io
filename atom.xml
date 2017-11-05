@@ -4,7 +4,7 @@
   
   <subtitle>我是一个前端的初学者,和我一起学习吧!</subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="%5Bobject%20Object%5D" rel="hub"/>
+  
   <link href="http://LiangJun520.com/"/>
   <updated>2017-10-26T10:04:42.560Z</updated>
   <id>http://LiangJun520.com/</id>
@@ -29,10 +29,7 @@
     
       
       
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
       
     
     </summary>
