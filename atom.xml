@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://LiangJun520.com/"/>
-  <updated>2017-11-20T01:03:03.250Z</updated>
+  <updated>2017-11-23T14:41:07.080Z</updated>
   <id>http://LiangJun520.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用Github搭建hexo个人博客之Next主题个性化配置教程</title>
+    <link href="http://LiangJun520.com/2017/11/23/%E4%BD%BF%E7%94%A8Github%E6%90%AD%E5%BB%BAhexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E4%B9%8BNext%E4%B8%BB%E9%A2%98%E4%B8%AA%E6%80%A7%E5%8C%96%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/"/>
+    <id>http://LiangJun520.com/2017/11/23/使用Github搭建hexo个人博客之Next主题个性化配置教程/</id>
+    <published>2017-11-23T13:47:52.000Z</published>
+    <updated>2017-11-23T14:41:07.080Z</updated>
+    
+    <content type="html"><![CDATA[<p>上次给大家提到了我的我的博文<a href="http://liangjun520.com/2017/11/19/%E4%BD%BF%E7%94%A8Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">使用Github搭建个人博客</a>,博文应该有些简陋,因为我比较少写博文,所以难免会有些难懂,但是在接下来的博文中,我会尽最大的努力写出最好的文章. </p><p>而这次我的博文就是使用Github搭建hexo个人博客之Next主题个性化配置教程,因为我使用的是比较受Github搭建hexo个人博客收欢迎的主题Next,,所以我在这里会写关于NexT主题的个性化配置,由于在网上比较难搜索到相关的NexT主题的个性化配置教程,所以我在这里会引用好的博文和作者的帖子,喜欢你们能喜欢.好的,那么我们就直接进入主题.</p><p>首先我先引用作者的帖子<a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="external">NexT使用文档</a>,由于开始直接引用了作者的帖子是非常有用的,简明易懂,清晰不带复杂.在主题设定中NexT主题有不同的,所以在搭建博客的时候可以换着自己喜欢的主题风格和个性化配置.</p><p>然后我们就可以接着Next主题的(开始使用标题)搭建,但是刚开始不建议集成第三方服务,因为对刚开始接触主题的新人有些麻烦,但是个人也可以尝试配置一下.配置好后可以直接跳过作者的帖子,当然我们可以先收藏一下,因为后面还会用到的.</p><p>接下来我会引用上面提到的一篇好的博文<a href="https://segmentfault.com/a/1190000009544924#articleHeader10" target="_blank" rel="external">hexo的next主题个性化配置教程</a>里面写得真的非常不错,个人可以随意自己搭配不同的配置,这篇文章引用了在网上不同的帖子集合起来的个性化配置,这就是我引用这篇博文的原因.当然如果有更好的帖子也可以分享出来,也可以发邮件到我的邮箱:sb163c@163.com.毕竟我也是新手,可以互相了解NexT主题的不同配置.</p><p>这就是我这篇博文的全部内容了,因为我目前无法个人写出个性化配置,所以只能直接引用好的文章,当然如果以后可以写出个性化配置,我也会在我的博客里面写出新的博文,让更多喜欢搭建博客的朋友们喜欢上个人博客,这就是个人博客的魅力.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;上次给大家提到了我的我的博文&lt;a href=&quot;http://liangjun520.com/2017/11/19/%E4%BD%BF%E7%94%A8Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/&quot;
+      
+    
+    </summary>
+    
+      <category term="博客" scheme="http://LiangJun520.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="博客" scheme="http://LiangJun520.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>使用Github搭建个人博客</title>
